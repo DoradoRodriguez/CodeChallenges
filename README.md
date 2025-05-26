@@ -10,7 +10,8 @@ Este repositorio contiene una colección de desafíos de programación diseñado
 
 ## Fuente de los Desafíos
 
-Los desafíos de programación en este repositorio provienen de [Edabit](https://edabit.com/challenge), una plataforma que ofrece una amplia variedad de ejercicios de programación para practicar y mejorar tus habilidades de codificación.
+Los desafíos de programación en este repositorio provienen de [Edabit](https://edabit.com/challenges), una plataforma que ofrece una amplia variedad de ejercicios de programación para practicar y mejorar tus habilidades de codificación.
+
 ## Cómo Usar Este Repositorio
 
 1. Clona este repositorio en tu máquina local.
